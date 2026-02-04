@@ -1,0 +1,20 @@
+Privacy Policy
+
+This application is a personal project that connects to Pinterest via OAuth
+to analyze a user’s saved Pins and Boards in order to generate a monthly
+summary (“Pinterest Wrapped”).
+
+Data Accessed:
+- Pinterest account identifier
+- Boards and Pins metadata
+
+Data Usage:
+- Data is used solely to generate user-facing analytics
+- No data is sold or shared with third parties
+
+Data Storage:
+- Data may be stored securely to enable monthly summaries
+- Users may revoke access at any time through their Pinterest account settings
+
+Contact:
+valivetiveda@gmail.com
